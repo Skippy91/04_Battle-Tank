@@ -5,3 +5,4 @@ Starting a new Challenge
 
 ## Lecture List
 * BT01 Intro, Notes & Assets
+* BT02 Game Design Documents (GDD)
